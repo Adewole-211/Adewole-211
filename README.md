@@ -1,11 +1,13 @@
-## Hi there 👋
-
-# Hi, I’m Wole
+# Hi, I’m Wole 👋
 
 ## About Me
-I am a data professional currently working as a Logistics Analyst at Amazon, where I use SQL, Python, and R to improve processes, support operational decision-making, and maximise project impact.
+I am a data professional currently working as a Logistics Analyst at Amazon, where I use SQL, Python, and R to improve processes, support operational decision-making, and increase the impact of analytical projects.
 
 My experience includes developing dashboards, carrying out deep dives, and building scripts in Python and R to automate reporting, improve visibility, and deliver actionable insights.
+
+## Portfolio
+This portfolio showcases a selection of my recent projects in data analysis, reporting, automation, and process improvement.
+- **Operational Reporting Projects** – dashboarding, KPI monitoring, and performance deep dives
 
 ## Tools & Technologies
 - SQL
@@ -17,13 +19,34 @@ My experience includes developing dashboards, carrying out deep dives, and build
 - VS Code
 - Jupyter Notebook
 
-## What I Work On
-- Dashboard development
-- Reporting automation
-- Operational deep dives
-- KPI analysis
-- Process improvement
-- Data cleaning and transformation
+## Certifications
+- Google Data Analytics Professional Certificate
+- Google Advanced Data Analytics Certificate *(in progress)*
+- freeCodeCamp Data Analysis with Python
 
 ## Current Focus
-I am focused on strengthening my analytical skill set, building practical projects, and expanding my portfolio with data-driven work that solves real business problems.
+- Building practical portfolio projects in Python, SQL, and R
+- Strengthening reporting, automation, and data visualisation skills
+- Transitioning into Data Analyst / BI Analyst roles
+
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adewole29)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/43337426)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wolecole211@gmail.com)
+
+## Tech Stack
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Adewole-211&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Adewole-211&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adewole-211&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Adewole-211&icon=0&color=0)](https://visitcount.itsvg.in)
