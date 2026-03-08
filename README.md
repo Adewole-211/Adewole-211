@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Adewole-211/Adewole-211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Wole
 
-Here are some ideas to get you started:
+## About Me
+I am a data professional currently working as a Logistics Analyst at Amazon, where I use SQL, Python, and R to improve processes, support operational decision-making, and maximise project impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience includes developing dashboards, carrying out deep dives, and building scripts in Python and R to automate reporting, improve visibility, and deliver actionable insights.
+
+## Tools & Technologies
+- SQL
+- Python
+- R
+- Excel
+- Tableau Public
+- Amazon QuickSight
+- VS Code
+- Jupyter Notebook
+
+## What I Work On
+- Dashboard development
+- Reporting automation
+- Operational deep dives
+- KPI analysis
+- Process improvement
+- Data cleaning and transformation
+
+## Current Focus
+I am focused on strengthening my analytical skill set, building practical projects, and expanding my portfolio with data-driven work that solves real business problems.
