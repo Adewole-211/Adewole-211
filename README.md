@@ -13,7 +13,6 @@ This portfolio showcases a selection of my recent projects in data analysis, rep
 - SQL
 - Python
 - R
-- Excel
 - Tableau Public
 - Amazon QuickSight
 - VS Code
